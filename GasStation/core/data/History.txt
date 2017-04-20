@@ -1,0 +1,6 @@
+Petrol: A80 | quantity: 6
+Petrol: A80 | quantity: 6
+Petrol: A80 | quantity: 10
+Petrol: A92 | quantity: 7
+Petrol: A95 | quantity: 9
+Petrol: A95 | quantity: 19
